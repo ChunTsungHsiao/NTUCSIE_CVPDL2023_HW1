@@ -1,5 +1,7 @@
 # CVPDL_hw1
-
+To start working on this assignment, you should clone this repository into your local machine by using the following command.
+    
+    git clone https://github.com/Jacob-codingnoob/NTUCSIE_CVPDL2023_HW1.git
 # Device
 
 NVIDIA GeForce RTX 1080 ti.

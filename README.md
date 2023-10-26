@@ -5,8 +5,12 @@ To start working on this assignment, you should clone this repository into your 
 # Device
 
 NVIDIA GeForce RTX 1080 ti.
-    
-# Run train code - DETR
+
+# Run train code - DINO
+
+# Download Pretrain-weight
+
+    gdown "https://drive.google.com/u/0/uc?id=1eeAHgu-fzp28PGdIjeLe-pzGPMG2r2G_&export=download"
 
 ### Create environment
 use python=3.7.3,pytorch=1.9.0,cuda=11.1

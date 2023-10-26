@@ -10,12 +10,12 @@ NVIDIA GeForce RTX 1080 ti.
 
 ### Create environment
 use python=3.7.3,pytorch=1.9.0,cuda=11.1
+
+
     cd DINO
     conda create --name DINO python=3.7.3
     conda activate DINO
-
     pip install torch==1.9.0+cu111 torchvision==0.10.0+cu111 torchaudio==0.9.0 -f https://download.pytorch.org/whl/torch_stable.html
-
     pip install -r requirements.txt
     
 ### Train from pre-train weights
